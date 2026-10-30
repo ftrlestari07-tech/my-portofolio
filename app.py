@@ -10,21 +10,21 @@ st.write("Selamat datang diberanda")
 st.write("Welcome to My Apps")
 
 st.page_link(
-    "pages/Home.py",
+    "pages/home.py",
     label = "Lihat Home",
     icon = "🏡")
 
 st.page_link(
-    "pages/Profil.py",
+    "pages/profil.py",
     label = "Lihat Profile",
     icon = "👤")
 
 st.page_link(
-    "pages/Kemampuan.py",
+    "pages/kemampuan.py",
     label = "Lihat Kemampuan",
     icon = "🧠")
 
 st.page_link(
-    "pages/Sosial_media.py",
+    "pages/sosial_media.py",
     label = "Lihat Sosial_media",
     icon = "🌐")
