@@ -27,4 +27,4 @@ st.page_link(
 st.page_link(
     "pages/Sosial_media.py",
     label = "Lihat Sosial_media",
-    icon = "❕")
+    icon = "🌐")
