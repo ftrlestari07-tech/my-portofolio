@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🌐 Sosial Media")
+st.title("🌐 sosial Media")
 st.write("Ayo terhubung dengan saya lewat platform berikut:")
 
 st.divider()
